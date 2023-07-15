@@ -1,0 +1,12 @@
+[
+           {
+                      'deployment_range': 'status_quo', 
+                      'deactivation': 'status_quo', 
+                      'data_access_policy': 'status_quo',
+                      'privacy_preservation': 'status_quo',            
+                      'data_encryption': 'status_quo', 
+                      'data_decryption': 'status_quo',
+                      'data_archiving': 'status_quo', 
+                      'data_deletion': 'status_quo'
+           }
+]
