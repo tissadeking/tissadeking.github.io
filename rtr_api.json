@@ -1,0 +1,14 @@
+[
+  {
+    'deactivation': 'status_quo', 
+    'vulnerability_assessment': 'status_quo',
+    'impact_assessment': 'status_quo', 
+    'mitigation': 'status_quo',
+    'self_governance_and_automation': 'status_quo', 
+    'self_learning_defense': 'status_quo',
+    'self_testing': 'status_quo', 
+    'edge_authenticator': 'status_quo', 
+    'identity_check': 'status_quo',
+    'anonymization': 'status_quo'
+  }
+]
